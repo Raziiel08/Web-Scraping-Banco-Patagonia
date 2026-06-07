@@ -194,7 +194,12 @@ const URL_BASE = 'https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybenef
 
       console.log(`OK - ${promo.nombre}`);
 
-      todasLasPromos.push(promo);
+      // Solo guardar si tiene nombre válido
+      if (promo.nombre) {
+        todasLasPromos.push(promo);
+      } else {
+        console.log(`Saltando URL sin datos válidos: ${url}`);
+      }
 
     } catch (err) {
 
