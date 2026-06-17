@@ -29,45 +29,15 @@ const URL_BASE = 'https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybenef
 
   await new Promise(r => setTimeout(r, 3000));
 
-  // Obtener links únicos de promociones
   const linksPromos = await page.evaluate(() => {
 
-    const anchors = Array.from(document.querySelectorAll('a'));
+    // Agarrar links SOLO de las tarjetas de producto (.product-item-info)
+    const anchors = Array.from(
+      document.querySelectorAll('.product-item-info a.product-item-photo')
+   );
 
-    const links = anchors
-      .map(a => a.href)
-      .filter(href =>
-        href.includes('/ahorrosybeneficios/') &&
-        href.endsWith('.html') &&
-        !href.includes('farmacias') &&
-        !href.includes('indumentaria') &&
-        !href.includes('librerias') &&
-        !href.includes('shopping') &&
-        !href.includes('combustibles') &&
-        !href.includes('peluqueria') &&
-        !href.includes('supermercados') &&
-        !href.includes('mascota') &&
-        !href.includes('espectaculos') &&
-        !href.includes('rio-negro') &&
-        !href.includes('invierno') &&
-        !href.includes('modo.html') &&
-        !href.includes('servicios') &&
-        !href.includes('mundial') &&
-        !href.includes('turismo') &&
-        !href.includes('educacion') &&
-        !href.includes('hogar') &&
-        !href.includes('gastronomia') &&
-        !href.includes('automotor') &&
-        !href.includes('patagonia-sale') &&
-        !href.includes('privacy') &&
-        !href.includes('contact') &&
-        !href.includes('catalogsearch') &&
-        !href.includes('customer') &&
-        !href.includes('checkout') &&
-        !href.includes('inicio-')
-      );
+    const links = anchors.map(a => a.href).filter(Boolean);
 
-    // Eliminar duplicados
     return [...new Set(links)];
   });
 
