@@ -1,0 +1,1008 @@
+[
+  {
+    "nombre": "Aerolíneas Argentinas",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 08/08/2026 al 14/08/2026",
+    "categorias": "Turismo",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/logo-aerolineas.png",
+    "codigo": "Aerolineas_2026",
+    "condiciones": "Legales Patagonia Clásica y Plus\n\nCARTERA DE CONSUMO Y COMERCIAL – PROMOCIÓN VÁLIDA EN LA REPÚBLICA ARGENTINA DESDE EL 8/08/2026 HASTA EL 14/08/2026, AMBAS FECHAS INCLUSIVE, PARA COMPRAS DE PASAJES AÉREOS PARA VUELOS OPERADOS POR AEROLINEAS ARGENTINAS DENTRO DE LA REPÚBLICA ARGENTINA. RECIBIRÁ FINANCIACIÓN EN HASTA SEIS (6) CUOTAS SIN INTERÉS CON TODAS LAS TARJETAS DE CRÉDITO VISA DE BANCO PATAGONIA. CANALES DE COMERCIALIZACIÓN: SUCURSALES DE AEROLÍNEAS ARGENTINAS, ONLINE A TRAVÉS DE LA WEB WWW.AEROLINEAS.COM.AR, VENTA TELEFÓNICA AL +54 (11) 5199-3555 Y AGENCIAS BSP AUTORIZADAS. BANCO PATAGONIA S.A. NO SE RESPONSABILIZA POR LOS CUPONES PRESENTADOS FUERA DE LAS FECHAS DE VIGENCIA DE LA PROMOCIÓN. LAS CUENTAS NO DEBERÁN REGISTRAR MORA. NO APLICA PARA AQUELLOS PAGOS Y/O CONSUMOS ABONADOS CON TARJETAS DE CRÉDITO VISA EMITIDAS POR BANCO PATAGONIA S.A. A TRAVÉS DE BILLETERAS VIRTUALES, POS MÓVILES, PLATAFORMAS DE PAGO Y/O PORTALES DE PAGO ON LINE A EXCEPCION DE MODO (*) PARA COMPRAS ABONADAS EN CUOTAS POR USUARIOS DE SERVICIOS FINANCIEROS - CARTERA DE CONSUMO - SE APLICARÁ: TASA NOMIN AL ANUAL: 0% - TASA EFECTIVA ANUAL: 0% - COSTO SEGURO DE VIDA 0% - COSTO FINANCIERO TOTAL (C.F.T.) EXPRESADO EN TASA EFECTIVA. (**) PARA COMPRAS ABONADAS EN CUOTAS POR CLIENTES DE CARTERA COMERCIAL, SE APLICARÁ: TASA NOMINAL ANUAL: 0% - TASA EFECTIVA ANUAL: 0% - COSTO SEGURO DE VIDA 0.35% - COSTO FINANCIERO TOTAL. ESTA PROMOCIÓN SE AJUSTA A LA RESOLUCIÓN 51 E/2017 DE LA SECRETARÍA DE COMERCIO SIENDO LAS CUOTAS SIN INTERÉS. COSTO FINANCIERO TOTAL. PROMOCIONES CONFORME RESOLUCIÓN 51 E/2017 DE LA SECRETARÍA DE COMERCIO.C.F.T.N.A. (con y sin IVA):(*) 0,00%(**) 4,34%\"\"” PARA MÁS INFORMACIÓN CONSULTE EN WWW.AEROLINEAS.COM.AR.AR AV. RAFAEL OBLIGADO S/N, TERMINAL 4, 5° PISO, AEROPARQUE JORGE NEWBERY, CABA. CUIT 30-64140555-4.\"\n\nLegales Patagonia Singular\n\nCARTERA DE CONSUMO Y COMERCIAL – PROMOCIÓN VÁLIDA EN LA REPÚBLICA ARGENTINA DESDE EL 8/08/2026 HASTA EL 14/08/2026, AMBAS FECHAS INCLUSIVE, PARA COMPRAS DE PASAJES AÉREOS PARA VUELOS OPERADOS POR AEROLINEAS ARGENTINAS DENTRO DE LA REPÚBLICA ARGENTINA. RECIBIRÁ FINANCIACIÓN EN HASTA NUEVE (9) CUOTAS SIN INTERÉS CON TODAS LAS TARJETAS DE CRÉDITO VISA DE BANCO PATAGONIA. CANALES DE COMERCIALIZACIÓN: SUCURSALES DE AEROLÍNEAS ARGENTINAS, ONLINE A TRAVÉS DE LA WEB WWW.AEROLINEAS.COM.AR, VENTA TELEFÓNICA AL +54 (11) 5199-3555 Y AGENCIAS BSP AUTORIZADAS. BANCO PATAGONIA S.A. NO SE RESPONSABILIZA POR LOS CUPONES PRESENTADOS FUERA DE LAS FECHAS DE VIGENCIA DE LA PROMOCIÓN. LAS CUENTAS NO DEBERÁN REGISTRAR MORA. NO APLICA PARA AQUELLOS PAGOS Y/O CONSUMOS ABONADOS CON TARJETAS DE CRÉDITO VISA EMITIDAS POR BANCO PATAGONIA S.A. A TRAVÉS DE BILLETERAS VIRTUALES, POS MÓVILES, PLATAFORMAS DE PAGO Y/O PORTALES DE PAGO ON LINE A EXCEPCION DE MODO (*) PARA COMPRAS ABONADAS EN CUOTAS POR USUARIOS DE SERVICIOS FINANCIEROS - CARTERA DE CONSUMO - SE APLICARÁ: TASA NOMIN AL ANUAL: 0% - TASA EFECTIVA ANUAL: 0% - COSTO SEGURO DE VIDA 0% - COSTO FINANCIERO TOTAL (C.F.T.) EXPRESADO EN TASA EFECTIVA. (**) PARA COMPRAS ABONADAS EN CUOTAS POR CLIENTES DE CARTERA COMERCIAL, SE APLICARÁ: TASA NOMINAL ANUAL: 0% - TASA EFECTIVA ANUAL: 0% - COSTO SEGURO DE VIDA 0.35% - COSTO FINANCIERO TOTAL. ESTA PROMOCIÓN SE AJUSTA A LA RESOLUCIÓN 51 E/2017 DE LA SECRETARÍA DE COMERCIO SIENDO LAS CUOTAS SIN INTERÉS. COSTO FINANCIERO TOTAL. PROMOCIONES CONFORME RESOLUCIÓN 51 E/2017 DE LA SECRETARÍA DE COMERCIO.C.F.T.N.A. (con y sin IVA):(*) 0,00%(**) 4,34%\"\"” PARA MÁS INFORMACIÓN CONSULTE EN WWW.AEROLINEAS.COM.AR.AR AV. RAFAEL OBLIGADO S/N, TERMINAL 4, 5° PISO, AEROPARQUE JORGE NEWBERY, CABA. CUIT 30-64140555-4.\"",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/aerolineas-2026.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "6cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "9cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Cabify",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 24/06/2026 al 30/09/2026",
+    "categorias": "Transporte",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/a/cabify_002_.png",
+    "codigo": "2026_07_03_Cabify_Usuarios_Nuevos",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/cabify-usuarios-nuevos.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "50",
+        "tope": "Tope: $4000",
+        "medios_pago": [
+          "Mastercard"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Todo",
+    "dias": "TODOS LOS JUEVES",
+    "vigencia": "Del 02/04/2026 al 30/09/2026",
+    "categorias": "Supermercados, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/t/o/todo_3.jpg",
+    "codigo": "2026_04_01_Todo",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/todo5.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA"
+        ],
+        "porcentaje": "15",
+        "tope": "Tope: $10000",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $15000",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Carrefour",
+    "dias": "TODOS LOS MIÉRCOLES",
+    "vigencia": "Del 01/04/2026 al 30/09/2026",
+    "categorias": "Supermercados, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/a/carrefour_6.jpg",
+    "codigo": "20250516_1355_CarrefourPlanSueldoCARGAESPECIAL",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/carrefour4.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $15000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "PLUS"
+        ],
+        "porcentaje": "25",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "35",
+        "tope": "Tope: $25000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Carrefour",
+    "dias": "TODOS LOS MIÉRCOLES",
+    "vigencia": "Del 01/04/2026 al 30/09/2026",
+    "categorias": "Supermercados, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/a/carrefour_5.jpg",
+    "codigo": "20250516_1355_CarrefourCARGAESPECIAL",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/carrefour3.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA"
+        ],
+        "porcentaje": "15",
+        "tope": "Tope: $10000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $15000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Mastercard",
+          "Amex"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Changomas",
+    "dias": "TODOS LOS SÁBADOS",
+    "vigencia": "Del 07/03/2026 al 31/12/2026",
+    "categorias": "Supermercados",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/h/chango_1_2.jpg",
+    "codigo": "20250516_1355_ChangomasCARGAESPECIAL",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/changomas3.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "15",
+        "tope": "Tope: $10000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Coto Digital",
+    "dias": "TODOS LOS JUEVES",
+    "vigencia": "Del 14/05/2026 al 30/09/2026",
+    "categorias": "Supermercados",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/o/coto_digital_3.jpg",
+    "codigo": "20250516_1355_CotoDigitalCARGAESPECIAL",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/coto-digital2.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $25000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Cooperativa Obrera",
+    "dias": "TODOS LOS SÁBADOS",
+    "vigencia": "Del 04/04/2026 al 30/09/2026",
+    "categorias": "Supermercados, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/o/cooperativa_obrera_2.jpg",
+    "codigo": "20250516_1355_CooperativaObreraCARGAESPECIAL",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/cooperativa-obrera3.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA"
+        ],
+        "porcentaje": "15",
+        "tope": "Tope: $10000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $15000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "La Anónima",
+    "dias": "TODOS LOS JUEVES",
+    "vigencia": "Del 02/04/2026 al 30/09/2026",
+    "categorias": "Supermercados, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/a/la_anonima_1.jpg",
+    "codigo": "20250516_1355_LaAnonimaCARGAESPECIAL",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/la-anonima2.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA"
+        ],
+        "porcentaje": "15",
+        "tope": "Tope: $10000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $15000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Escuela de Ski Laderas",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 23/07/2026 al 28/02/2027",
+    "categorias": "Invierno, Río Negro, Centro de Ski Laderas",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/a/laderas_3.png",
+    "codigo": "2026_07_21_Escuela_de_Ski_Laderas",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/escuela-de-ski-laderas.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "6cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "9cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Rental Laderas",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 23/07/2026 al 28/02/2027",
+    "categorias": "Invierno, Río Negro, Centro de Ski Laderas",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/a/laderas_2.png",
+    "codigo": "2026_07_21_Rental_Laderas",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/rental-laderas.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "6cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "9cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Pases Laderas",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 23/07/2026 al 28/02/2027",
+    "categorias": "Invierno, Río Negro, Centro de Ski Laderas",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/a/laderas_1.png",
+    "codigo": "2026_07_21_Pases_Laderas",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/pases-laderas.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "6cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "9cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Cerro Chapelco",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 22/07/2026 al 30/10/2026",
+    "categorias": "Invierno",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/0/4/04._chapelco_vertical_sin_claim.png",
+    "codigo": "2026_07_21_Cerro_Chapelco",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/cerro-chapelco.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "9cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa",
+          "Mastercard"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "La Hoya Ski",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 22/07/2026 al 30/10/2026",
+    "categorias": "Invierno",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/0/6/06._la_hoya_vertical_sin_claim.png",
+    "codigo": "2026_07_21_LaHoyaSki",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/la-hoya-ski.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "9cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa",
+          "Mastercard"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Cerro Catedral Alta Patagonia",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 28/07/2026 al 30/10/2026",
+    "categorias": "Invierno, Centro de Ski Catedral",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/0/5/05._catedral.png",
+    "codigo": "2026_07_21_Cerro_Catedral_Alta_Patagonia",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/cerro-catedral-alta-patagonia.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "9cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa",
+          "Mastercard"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "El Boliche de Alberto",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 01/06/2026 al 30/09/2026",
+    "categorias": "Gastronomía, Invierno, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/b/o/boliche_alberto.png",
+    "codigo": "2026_07_07_El_Boliche_de_Alberto",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/el-boliche-de-alberto-invierno.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Refugio Lynch",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 08/07/2026 al 30/09/2026",
+    "categorias": "Invierno, Río Negro, Centro de Ski Catedral",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/r/e/ref_lynch.png",
+    "codigo": "2026_07_07_Refugio_Lynch",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/refugio-lynch.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Quiven Patagonia",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 08/07/2026 al 30/09/2026",
+    "categorias": "Gastronomía, Invierno, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/q/u/quiven.jpg",
+    "codigo": "2026_07_06_Quiven_Patagonia",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/quiven-patagonia.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Madurado Resto",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 08/07/2026 al 30/09/2026",
+    "categorias": "Gastronomía, Invierno, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/logo_maduradosin_t_tulo.png",
+    "codigo": "2026_07_06_Madurado_Resto",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/madurado-resto.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Berlina",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 17/06/2026 al 30/09/2026",
+    "categorias": "Invierno, Río Negro, Centro de Ski Catedral",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/b/e/berlina.jpg",
+    "codigo": "2026_06_11_Berlina_30_OFF",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/berlina.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Wesley",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 11/06/2026 al 19/07/2026",
+    "categorias": "Invierno, Río Negro, Centro de Ski Catedral",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/w/e/wesley.png",
+    "codigo": "2026_06_11_Wesley",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/wesley.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Refugio Knapp",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 16/06/2026 al 30/09/2026",
+    "categorias": "Río Negro, Mundial",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/k/n/knapp.png",
+    "codigo": "2026_06_10_Refugio_Knapp",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/refugio-knapp.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Punta Princesa",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 16/06/2026 al 30/09/2026",
+    "categorias": "Invierno, Río Negro, Centro de Ski Catedral",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/p/u/punta_princesa.jpg",
+    "codigo": "2026_06_10_Punta_Princesa_Río_Negro",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/punta-princesa-rio-negro.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Taberna Gallega",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 01/06/2026 al 30/09/2026",
+    "categorias": "Invierno, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/logo_taberna.jpg",
+    "codigo": "2026_05_14_Taberna_Gallega_Invierno",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/taberna-gallega-invierno.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Del Turista",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 01/06/2026 al 30/09/2026",
+    "categorias": "Invierno, Río Negro, Centro de Ski Catedral",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/d/e/del_turista.jpg",
+    "codigo": "2026_05_13_Del_Turista_Invierno",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/del-turista-invierno.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA"
+        ],
+        "porcentaje": "15",
+        "tope": "Tope: $10000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $15000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Mamuschka",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 01/06/2026 al 30/09/2026",
+    "categorias": "Invierno, Río Negro, Centro de Ski Catedral",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/m/a/mamuschka.png",
+    "codigo": "2026_05_13_Mamuschka_Invierno",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/mamuschka-invierno.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA"
+        ],
+        "porcentaje": "15",
+        "tope": "Tope: $10000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $15000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Patagonia Ski School",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 01/06/2026 al 30/09/2026",
+    "categorias": "Invierno, Río Negro, Centro de Ski Catedral",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/p/a/patagonia_ski_school.jpg",
+    "codigo": "2026_12_06_Patagonia_Ski_School",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/patagonia-ski-school.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA"
+        ],
+        "porcentaje": "15",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $40000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "25",
+        "tope": "Tope: $50000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  }
+]
