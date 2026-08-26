@@ -1,44 +1,5 @@
 [
   {
-    "nombre": "Aerolíneas Argentinas",
-    "dias": "TODOS LOS DÍAS",
-    "vigencia": "Del 08/08/2026 al 14/08/2026",
-    "categorias": "Turismo",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/logo-aerolineas.png",
-    "codigo": "Aerolineas_2026",
-    "condiciones": "Legales Patagonia Clásica y Plus\n\nCARTERA DE CONSUMO Y COMERCIAL – PROMOCIÓN VÁLIDA EN LA REPÚBLICA ARGENTINA DESDE EL 8/08/2026 HASTA EL 14/08/2026, AMBAS FECHAS INCLUSIVE, PARA COMPRAS DE PASAJES AÉREOS PARA VUELOS OPERADOS POR AEROLINEAS ARGENTINAS DENTRO DE LA REPÚBLICA ARGENTINA. RECIBIRÁ FINANCIACIÓN EN HASTA SEIS (6) CUOTAS SIN INTERÉS CON TODAS LAS TARJETAS DE CRÉDITO VISA DE BANCO PATAGONIA. CANALES DE COMERCIALIZACIÓN: SUCURSALES DE AEROLÍNEAS ARGENTINAS, ONLINE A TRAVÉS DE LA WEB WWW.AEROLINEAS.COM.AR, VENTA TELEFÓNICA AL +54 (11) 5199-3555 Y AGENCIAS BSP AUTORIZADAS. BANCO PATAGONIA S.A. NO SE RESPONSABILIZA POR LOS CUPONES PRESENTADOS FUERA DE LAS FECHAS DE VIGENCIA DE LA PROMOCIÓN. LAS CUENTAS NO DEBERÁN REGISTRAR MORA. NO APLICA PARA AQUELLOS PAGOS Y/O CONSUMOS ABONADOS CON TARJETAS DE CRÉDITO VISA EMITIDAS POR BANCO PATAGONIA S.A. A TRAVÉS DE BILLETERAS VIRTUALES, POS MÓVILES, PLATAFORMAS DE PAGO Y/O PORTALES DE PAGO ON LINE A EXCEPCION DE MODO (*) PARA COMPRAS ABONADAS EN CUOTAS POR USUARIOS DE SERVICIOS FINANCIEROS - CARTERA DE CONSUMO - SE APLICARÁ: TASA NOMIN AL ANUAL: 0% - TASA EFECTIVA ANUAL: 0% - COSTO SEGURO DE VIDA 0% - COSTO FINANCIERO TOTAL (C.F.T.) EXPRESADO EN TASA EFECTIVA. (**) PARA COMPRAS ABONADAS EN CUOTAS POR CLIENTES DE CARTERA COMERCIAL, SE APLICARÁ: TASA NOMINAL ANUAL: 0% - TASA EFECTIVA ANUAL: 0% - COSTO SEGURO DE VIDA 0.35% - COSTO FINANCIERO TOTAL. ESTA PROMOCIÓN SE AJUSTA A LA RESOLUCIÓN 51 E/2017 DE LA SECRETARÍA DE COMERCIO SIENDO LAS CUOTAS SIN INTERÉS. COSTO FINANCIERO TOTAL. PROMOCIONES CONFORME RESOLUCIÓN 51 E/2017 DE LA SECRETARÍA DE COMERCIO.C.F.T.N.A. (con y sin IVA):(*) 0,00%(**) 4,34%\"\"” PARA MÁS INFORMACIÓN CONSULTE EN WWW.AEROLINEAS.COM.AR.AR AV. RAFAEL OBLIGADO S/N, TERMINAL 4, 5° PISO, AEROPARQUE JORGE NEWBERY, CABA. CUIT 30-64140555-4.\"\n\nLegales Patagonia Singular\n\nCARTERA DE CONSUMO Y COMERCIAL – PROMOCIÓN VÁLIDA EN LA REPÚBLICA ARGENTINA DESDE EL 8/08/2026 HASTA EL 14/08/2026, AMBAS FECHAS INCLUSIVE, PARA COMPRAS DE PASAJES AÉREOS PARA VUELOS OPERADOS POR AEROLINEAS ARGENTINAS DENTRO DE LA REPÚBLICA ARGENTINA. RECIBIRÁ FINANCIACIÓN EN HASTA NUEVE (9) CUOTAS SIN INTERÉS CON TODAS LAS TARJETAS DE CRÉDITO VISA DE BANCO PATAGONIA. CANALES DE COMERCIALIZACIÓN: SUCURSALES DE AEROLÍNEAS ARGENTINAS, ONLINE A TRAVÉS DE LA WEB WWW.AEROLINEAS.COM.AR, VENTA TELEFÓNICA AL +54 (11) 5199-3555 Y AGENCIAS BSP AUTORIZADAS. BANCO PATAGONIA S.A. NO SE RESPONSABILIZA POR LOS CUPONES PRESENTADOS FUERA DE LAS FECHAS DE VIGENCIA DE LA PROMOCIÓN. LAS CUENTAS NO DEBERÁN REGISTRAR MORA. NO APLICA PARA AQUELLOS PAGOS Y/O CONSUMOS ABONADOS CON TARJETAS DE CRÉDITO VISA EMITIDAS POR BANCO PATAGONIA S.A. A TRAVÉS DE BILLETERAS VIRTUALES, POS MÓVILES, PLATAFORMAS DE PAGO Y/O PORTALES DE PAGO ON LINE A EXCEPCION DE MODO (*) PARA COMPRAS ABONADAS EN CUOTAS POR USUARIOS DE SERVICIOS FINANCIEROS - CARTERA DE CONSUMO - SE APLICARÁ: TASA NOMIN AL ANUAL: 0% - TASA EFECTIVA ANUAL: 0% - COSTO SEGURO DE VIDA 0% - COSTO FINANCIERO TOTAL (C.F.T.) EXPRESADO EN TASA EFECTIVA. (**) PARA COMPRAS ABONADAS EN CUOTAS POR CLIENTES DE CARTERA COMERCIAL, SE APLICARÁ: TASA NOMINAL ANUAL: 0% - TASA EFECTIVA ANUAL: 0% - COSTO SEGURO DE VIDA 0.35% - COSTO FINANCIERO TOTAL. ESTA PROMOCIÓN SE AJUSTA A LA RESOLUCIÓN 51 E/2017 DE LA SECRETARÍA DE COMERCIO SIENDO LAS CUOTAS SIN INTERÉS. COSTO FINANCIERO TOTAL. PROMOCIONES CONFORME RESOLUCIÓN 51 E/2017 DE LA SECRETARÍA DE COMERCIO.C.F.T.N.A. (con y sin IVA):(*) 0,00%(**) 4,34%\"\"” PARA MÁS INFORMACIÓN CONSULTE EN WWW.AEROLINEAS.COM.AR.AR AV. RAFAEL OBLIGADO S/N, TERMINAL 4, 5° PISO, AEROPARQUE JORGE NEWBERY, CABA. CUIT 30-64140555-4.\"",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/aerolineas-2026.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS"
-        ],
-        "porcentaje": "6cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa",
-          "Google Pay",
-          "Apple Pay",
-          "Modo"
-        ]
-      },
-      {
-        "segmentos": [
-          "SINGULAR"
-        ],
-        "porcentaje": "9cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa",
-          "Google Pay",
-          "Apple Pay",
-          "Modo"
-        ]
-      }
-    ]
-  },
-  {
     "nombre": "Cabify",
     "dias": "TODOS LOS DÍAS",
     "vigencia": "Del 24/06/2026 al 30/09/2026",
@@ -404,105 +365,6 @@
     ]
   },
   {
-    "nombre": "Escuela de Ski Laderas",
-    "dias": "TODOS LOS DÍAS",
-    "vigencia": "Del 23/07/2026 al 28/02/2027",
-    "categorias": "Invierno, Río Negro, Centro de Ski Laderas",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/a/laderas_3.png",
-    "codigo": "2026_07_21_Escuela_de_Ski_Laderas",
-    "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/escuela-de-ski-laderas.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS"
-        ],
-        "porcentaje": "6cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa"
-        ]
-      },
-      {
-        "segmentos": [
-          "SINGULAR"
-        ],
-        "porcentaje": "9cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa"
-        ]
-      }
-    ]
-  },
-  {
-    "nombre": "Rental Laderas",
-    "dias": "TODOS LOS DÍAS",
-    "vigencia": "Del 23/07/2026 al 28/02/2027",
-    "categorias": "Invierno, Río Negro, Centro de Ski Laderas",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/a/laderas_2.png",
-    "codigo": "2026_07_21_Rental_Laderas",
-    "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/rental-laderas.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS"
-        ],
-        "porcentaje": "6cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa"
-        ]
-      },
-      {
-        "segmentos": [
-          "SINGULAR"
-        ],
-        "porcentaje": "9cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa"
-        ]
-      }
-    ]
-  },
-  {
-    "nombre": "Pases Laderas",
-    "dias": "TODOS LOS DÍAS",
-    "vigencia": "Del 23/07/2026 al 28/02/2027",
-    "categorias": "Invierno, Río Negro, Centro de Ski Laderas",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/a/laderas_1.png",
-    "codigo": "2026_07_21_Pases_Laderas",
-    "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/pases-laderas.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS"
-        ],
-        "porcentaje": "6cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa"
-        ]
-      },
-      {
-        "segmentos": [
-          "SINGULAR"
-        ],
-        "porcentaje": "9cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa"
-        ]
-      }
-    ]
-  },
-  {
     "nombre": "Cerro Chapelco",
     "dias": "TODOS LOS DÍAS",
     "vigencia": "Del 22/07/2026 al 30/10/2026",
@@ -711,35 +573,6 @@
         "tope": "Tope: $30000",
         "medios_pago": [
           "Visa",
-          "Amex",
-          "Google Pay",
-          "Apple Pay",
-          "Modo"
-        ]
-      }
-    ]
-  },
-  {
-    "nombre": "Wesley",
-    "dias": "TODOS LOS DÍAS",
-    "vigencia": "Del 11/06/2026 al 19/07/2026",
-    "categorias": "Invierno, Río Negro, Centro de Ski Catedral",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/w/e/wesley.png",
-    "codigo": "2026_06_11_Wesley",
-    "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/wesley.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS",
-          "SINGULAR"
-        ],
-        "porcentaje": "30",
-        "tope": "Tope: $30000",
-        "medios_pago": [
-          "Visa",
-          "Mastercard",
           "Amex",
           "Google Pay",
           "Apple Pay",
