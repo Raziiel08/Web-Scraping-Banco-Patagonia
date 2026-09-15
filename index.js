@@ -7,7 +7,7 @@ const URL_BASE = 'https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybenef
 (async () => {
   // Iniciar navegador
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
 
