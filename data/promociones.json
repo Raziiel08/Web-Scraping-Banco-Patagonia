@@ -1,6 +1,71 @@
 [
   {
-    "nombre": "Todo",
+    "nombre": "Temple Bar",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 15/10/2026 al 31/01/2027",
+    "categorias": "Gastronomía",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/t/e/temple_bar.png",
+    "codigo": "2026_10_07_Temple_Bar",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/temple-bar.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $15000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Supermercado TODO",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 12/10/2026 al 31/12/2026",
+    "categorias": "Supermercados",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/t/o/todo_3_2_1.jpg",
+    "codigo": "2026_09_25_Supermercado_TODO",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/supermercado-todo.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "12cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Supermercado TODO",
     "dias": "TODOS LOS JUEVES",
     "vigencia": "Del 01/10/2026 al 31/03/2027",
     "categorias": "Supermercados, Río Negro",
@@ -208,6 +273,85 @@
     ]
   },
   {
+    "nombre": "Coto Digital",
+    "dias": "TODOS LOS JUEVES",
+    "vigencia": "Del 14/05/2026 al 31/03/2027",
+    "categorias": "Supermercados",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/o/coto_digital_3.jpg",
+    "codigo": "20250516_1355_CotoDigitalCARGAESPECIAL",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/coto-digital2.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $25000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Cooperativa Obrera",
+    "dias": "TODOS LOS SÁBADOS",
+    "vigencia": "Del 04/04/2026 al 31/03/2027",
+    "categorias": "Supermercados, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/o/cooperativa_obrera_2.jpg",
+    "codigo": "20250516_1355_CooperativaObreraCARGAESPECIAL",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/cooperativa-obrera3.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA"
+        ],
+        "porcentaje": "15",
+        "tope": "Tope: $10000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $15000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
     "nombre": "La Anónima",
     "dias": "TODOS LOS JUEVES",
     "vigencia": "Del 02/04/2026 al 31/03/2027",
@@ -262,14 +406,14 @@
     ]
   },
   {
-    "nombre": "Cerro Chapelco",
+    "nombre": "Samsung",
     "dias": "TODOS LOS DÍAS",
-    "vigencia": "Del 23/07/2026 al 30/10/2026",
-    "categorias": "Invierno",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/0/4/04._chapelco_vertical_sin_claim.png",
-    "codigo": "2026_07_21_Cerro_Chapelco",
+    "vigencia": "Del 19/09/2026 al 31/12/2026",
+    "categorias": "Hogar",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/s/a/samsung_1.jpg",
+    "codigo": "2026_09_16_Samsung_Comercios_Adheridos",
     "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/cerro-chapelco.html",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/samsung-comercios-adheridos.html",
     "segmentos": [
       {
         "segmentos": [
@@ -277,83 +421,8 @@
           "PLUS",
           "SINGULAR"
         ],
-        "porcentaje": "9cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa",
-          "Mastercard"
-        ]
-      }
-    ]
-  },
-  {
-    "nombre": "La Hoya Ski",
-    "dias": "TODOS LOS DÍAS",
-    "vigencia": "Del 23/07/2026 al 30/10/2026",
-    "categorias": "Invierno",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/0/6/06._la_hoya_vertical_sin_claim.png",
-    "codigo": "2026_07_21_LaHoyaSki",
-    "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/la-hoya-ski.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS",
-          "SINGULAR"
-        ],
-        "porcentaje": "9cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa",
-          "Mastercard"
-        ]
-      }
-    ]
-  },
-  {
-    "nombre": "Cerro Catedral Alta Patagonia",
-    "dias": "TODOS LOS DÍAS",
-    "vigencia": "Del 23/07/2026 al 30/10/2026",
-    "categorias": "Invierno, Centro de Ski Catedral",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/0/5/05._catedral.png",
-    "codigo": "2026_07_21_Cerro_Catedral_Alta_Patagonia",
-    "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/cerro-catedral-alta-patagonia.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS",
-          "SINGULAR"
-        ],
-        "porcentaje": "9cuotas\nsin interés",
-        "tope": "",
-        "medios_pago": [
-          "Visa",
-          "Mastercard"
-        ]
-      }
-    ]
-  },
-  {
-    "nombre": "Mamuschka",
-    "dias": "TODOS LOS DÍAS",
-    "vigencia": "Del 06/06/2026 al 31/03/2027",
-    "categorias": "Invierno, Río Negro, Centro de Ski Catedral",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/m/a/mamuschka.png",
-    "codigo": "2026_05_13_Mamuschka_Invierno",
-    "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/mamuschka-invierno.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS",
-          "SINGULAR"
-        ],
-        "porcentaje": "25",
-        "tope": "Tope: $20000",
+        "porcentaje": "10",
+        "tope": "Sin tope",
         "medios_pago": [
           "Visa",
           "Mastercard",
@@ -361,6 +430,471 @@
           "Google Pay",
           "Apple Pay",
           "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Frávega",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 02/09/2026 al 31/12/2026",
+    "categorias": "Hogar",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/f/r/fravega_4_2_1_1.jpg",
+    "codigo": "2026_08_28_Frávega_12_Cuotas",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/fravega-12-cuotas.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "12cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Casa Elvira",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 21/08/2026 al 31/12/2026",
+    "categorias": "Hogar, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/e/l/elvira_logo_en_alta_3_.jpg",
+    "codigo": "2026_08_20_Casa_Elvira_12_Cuotas",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/casa-elvira-12-cuotas.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "12cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Cetrogar",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 01/09/2026 al 31/12/2026",
+    "categorias": "Hogar",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/e/cetrogar_1.jpg",
+    "codigo": "2026_08_13_Cetrogar_12_Cuotas",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/cetrogar-12-cuotas.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "12cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Megatone",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 01/09/2026 al 31/12/2026",
+    "categorias": "Hogar",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/logo_de_megatone_1__1.jpg",
+    "codigo": "2026_08_12_Megatone_Agosto",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/megatone-agosto.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "12cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Naldo",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 04/08/2026 al 31/12/2026",
+    "categorias": "Hogar, Río Negro",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/n/a/naldo-logo-800x500px.jpg",
+    "codigo": "2026_07_30_Naldo",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/naldo.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "10",
+        "tope": "Sin tope",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Carlos Isla",
+    "dias": "MARTES Y SÁBADOS",
+    "vigencia": "Del 10/08/2026 al 31/12/2026",
+    "categorias": "Río Negro, Hogar",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/a/carlos_isla.png",
+    "codigo": "20250213_0939_CarlosIsla",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/carlos-isla.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "10",
+        "tope": "Sin tope",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "15",
+        "tope": "Sin tope",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Google Pay",
+          "Apple Pay"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Tortugas Open Mall",
+    "dias": "VIERNES A DOMINGOS",
+    "vigencia": "Del 01/10/2026 al 30/10/2026",
+    "categorias": "Día de la Madre, Día de la madre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/logo_tom.png",
+    "codigo": "2026_10_15_Tortugas_Open_Mall_DDLM",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/tortugas-open-mall-ddlm.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Get the Look",
+    "dias": "SÁBADO",
+    "vigencia": "17/10/2026",
+    "categorias": "Día de la Madre, Día de la madre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/look_1_1__1_1.jpg",
+    "codigo": "2026_10_15_Get_the_Look_DDLM",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/get-the-look-ddlm.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Mastercard",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Simplicity",
+    "dias": "SÁBADO",
+    "vigencia": "17/10/2026",
+    "categorias": "Día de la Madre, Día de la madre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/s/i/simplicity_4_1_1_1.jpg",
+    "codigo": "2026_10_15_Simplicity_DDLM",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/simplicity-ddlm.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Mastercard",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "The Food Market",
+    "dias": "SÁBADO",
+    "vigencia": "17/10/2026",
+    "categorias": "Día de la Madre, Día de la madre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/t/h/thefoodmarket_1_1__1_1.jpg",
+    "codigo": "2026_10_15_The_Food_Market_DDLM",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/the-food-market-ddlm.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Mastercard",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Farmacity",
+    "dias": "SÁBADO",
+    "vigencia": "17/10/2026",
+    "categorias": "Día de la Madre, Día de la madre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/f/a/farmacity_1__1_1.jpg",
+    "codigo": "2026_10_15_Farmacity_DDLM",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/farmacity-ddlm.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Mastercard",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Tienda Club Patagonia",
+    "dias": "TODOS LOS DÍAS",
+    "vigencia": "Del 12/10/2026 al 18/10/2026",
+    "categorias": "Patagonia Sale, Día de la madre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/logo-clubpatagonia-azul_1_1__2.png",
+    "codigo": "2026_10_09_Tienda_Club_Patagonia_Día_de_la_madre",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/tienda-club-patagonia-dia-de-la-madre.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "18cuotas\nsin interés",
+        "tope": "",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Open Sports",
+    "dias": "VIERNES A DOMINGOS",
+    "vigencia": "Del 09/10/2026 al 31/12/2026",
+    "categorias": "Indumentaria y Deportes, Río Negro, Día de la Madre, Día de la madre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/logo_original_opensports_34e2a13ba3.png",
+    "codigo": "2026_10_07_Open_Sports_Octubre",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/open-sports-octubre.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "15",
+        "tope": "Sin tope",
+        "medios_pago": [
+          "Visa",
+          "Mastercard",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Galerías Pacífico",
+    "dias": "LUNES A VIERNES",
+    "vigencia": "Del 21/09/2026 al 31/12/2026",
+    "categorias": "Indumentaria y Deportes",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/g/a/galerias_1_.jpg",
+    "codigo": "2026_09_15_Galerías_Pacífico_Comercios_Adheridos",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/galerias-pacifico-comercios-adheridos.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $30000",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Juleriaque",
+    "dias": "TODOS LOS VIERNES",
+    "vigencia": "Del 02/10/2026 al 31/01/2027",
+    "categorias": "Farmacias y Perfumerías, Día de la madre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/j/u/juleriaque_1_1_.png",
+    "codigo": "2026_10_02_Juleriaque_OCTUBRE",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/juleriaque-promocion.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "10",
+        "tope": "Sin tope",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Get the Look",
+    "dias": "TODOS LOS VIERNES",
+    "vigencia": "Del 03/04/2026 al 31/03/2027",
+    "categorias": "Farmacias y Perfumerías, Día de la madre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/look_1_1__1.jpg",
+    "codigo": "2026_09_03_Get_the_Look_Normal",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/get-the-look-normal.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Mastercard"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Simplicity",
+    "dias": "TODOS LOS VIERNES",
+    "vigencia": "Del 03/04/2026 al 31/03/2027",
+    "categorias": "Farmacias y Perfumerías, Día de la madre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/s/i/simplicity_4_1_1.jpg",
+    "codigo": "2026_09_03_Simplicity_Normal",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/simplicity-normal.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS",
+          "SINGULAR"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Mastercard"
         ]
       }
     ]
