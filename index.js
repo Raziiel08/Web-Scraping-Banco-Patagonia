@@ -7,9 +7,13 @@ const URL_BASE = 'https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybenef
 (async () => {
   // Iniciar navegador
   const browser = await puppeteer.launch({
-    headless: false,
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
-  });
+  headless: true,
+  defaultViewport: null,
+  args: [
+    '--no-sandbox',
+    '--disable-setuid-sandbox'
+  ]
+});
 
   const page = await browser.newPage();
 
@@ -30,17 +34,44 @@ const URL_BASE = 'https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybenef
   await new Promise(r => setTimeout(r, 3000));
 
   const linksPromos = await page.evaluate(() => {
+    // Buscar links dentro de tarjetas de producto
+    const anchorsInGrid = Array.from(
+      document.querySelectorAll('.product-item-info a[href$=".html"], .product-item a[href$=".html"]')
+    );
 
-    // Agarrar links SOLO de las tarjetas de producto (.product-item-info)
-    const anchors = Array.from(
-      document.querySelectorAll('.product-item-info a.product-item-photo')
-   );
+    // Buscar todos los links .html por si hay promociones fuera del grid
+    const anchorsAll = Array.from(document.querySelectorAll('a[href$=".html"]'));
 
-    const links = anchors.map(a => a.href).filter(Boolean);
+    const anchors = anchorsInGrid.concat(anchorsAll);
 
-    return [...new Set(links)];
+    const links = anchors
+      .map(a => a.href)
+      .filter(Boolean)
+      .filter(href => href.includes('/ahorrosybeneficios/'))
+      .filter(href => !href.includes('#'));
+
+    // Filtrar páginas de categorías
+    const categorias = [
+      'supermercados.html', 'hogar.html', 'indumentaria-y-deportes.html',
+      'farmacias-y-perfumerias.html', 'gastronomia.html', 'automotor.html',
+      'combustibles.html', 'servicios.html', 'turismo.html', 'transporte.html',
+      'educacion.html', 'espectaculos.html', 'librerias-y-jugueterias.html',
+      'mascota.html', 'peluqueria.html', 'shopping-y-paseos.html',
+      'centro-de-ski-catedral.html', 'chocolaterias.html', 'laderas.html',
+      'invierno.html', 'mundial.html', 'patagonia-sale.html',
+      'rio-negro.html', 'modo.html'
+    ];
+
+    const filtered = links.filter(href => {
+      const filename = href.split('/').pop();
+      return !categorias.includes(filename);
+    });
+
+    return [...new Set(filtered)];
   });
 
+  console.log(`Promociones encontradas: ${linksPromos.length}`);
+  console.log(linksPromos);
 
   const todasLasPromos = [];
 
