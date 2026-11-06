@@ -368,7 +368,7 @@
     "nombre": "Samsung",
     "dias": "TODOS LOS DÍAS",
     "vigencia": "Del 19/09/2026 al 31/12/2026",
-    "categorias": "Hogar",
+    "categorias": "Hogar, Cyber Patagonia",
     "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/s/a/samsung_1.jpg",
     "codigo": "2026_09_16_Samsung_Comercios_Adheridos",
     "condiciones": "",
@@ -397,7 +397,7 @@
     "nombre": "Frávega",
     "dias": "TODOS LOS DÍAS",
     "vigencia": "Del 02/09/2026 al 31/12/2026",
-    "categorias": "Hogar",
+    "categorias": "Hogar, Cyber Patagonia",
     "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/f/r/fravega_4_2_1_1.jpg",
     "codigo": "2026_08_28_Frávega_12_Cuotas",
     "condiciones": "",
@@ -455,7 +455,7 @@
     "nombre": "Cetrogar",
     "dias": "TODOS LOS DÍAS",
     "vigencia": "Del 01/09/2026 al 31/12/2026",
-    "categorias": "Hogar",
+    "categorias": "Hogar, Cyber Patagonia",
     "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/c/e/cetrogar_1.jpg",
     "codigo": "2026_08_13_Cetrogar_12_Cuotas",
     "condiciones": "",
@@ -484,7 +484,7 @@
     "nombre": "Megatone",
     "dias": "TODOS LOS DÍAS",
     "vigencia": "Del 01/09/2026 al 31/12/2026",
-    "categorias": "Hogar",
+    "categorias": "Hogar, Cyber Patagonia",
     "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/logo_de_megatone_1__1.jpg",
     "codigo": "2026_08_12_Megatone_Agosto",
     "condiciones": "",
@@ -576,33 +576,6 @@
     ]
   },
   {
-    "nombre": "Tortugas Open Mall",
-    "dias": "VIERNES A DOMINGOS",
-    "vigencia": "Del 01/10/2026 al 30/10/2026",
-    "categorias": "Día de la Madre, Día de la madre",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/logo_tom.png",
-    "codigo": "2026_10_15_Tortugas_Open_Mall_DDLM",
-    "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/tortugas-open-mall-ddlm.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS",
-          "SINGULAR"
-        ],
-        "porcentaje": "30",
-        "tope": "Tope: $30000",
-        "medios_pago": [
-          "Visa",
-          "Google Pay",
-          "Apple Pay",
-          "Modo"
-        ]
-      }
-    ]
-  },
-  {
     "nombre": "Open Sports",
     "dias": "VIERNES A DOMINGOS",
     "vigencia": "Del 09/10/2026 al 31/12/2026",
@@ -660,7 +633,7 @@
     "nombre": "Juleriaque",
     "dias": "TODOS LOS VIERNES",
     "vigencia": "Del 02/10/2026 al 31/01/2027",
-    "categorias": "Farmacias y Perfumerías",
+    "categorias": "Farmacias y Perfumerías, Cyber Patagonia",
     "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/j/u/juleriaque_1_1_.png",
     "codigo": "2026_10_02_Juleriaque_OCTUBRE",
     "condiciones": "",
@@ -686,9 +659,9 @@
   },
   {
     "nombre": "Get the Look",
-    "dias": "TODOS LOS VIERNES",
-    "vigencia": "Del 03/04/2026 al 31/03/2027",
-    "categorias": "Farmacias y Perfumerías",
+    "dias": "MIÉRCOLES A VIERNES",
+    "vigencia": "Del 04/11/2026 al 06/11/2026",
+    "categorias": "Farmacias y Perfumerías, Cyber Patagonia",
     "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/l/o/look_1_1__1.jpg",
     "codigo": "2026_09_03_Get_the_Look_Normal",
     "condiciones": "",
@@ -700,19 +673,21 @@
           "PLUS",
           "SINGULAR"
         ],
-        "porcentaje": "20",
+        "porcentaje": "30",
         "tope": "Tope: $20000",
         "medios_pago": [
-          "Mastercard"
+          "Mastercard",
+          "Google Pay",
+          "Modo"
         ]
       }
     ]
   },
   {
     "nombre": "Simplicity",
-    "dias": "TODOS LOS VIERNES",
-    "vigencia": "Del 03/04/2026 al 31/03/2027",
-    "categorias": "Farmacias y Perfumerías",
+    "dias": "MIÉRCOLES A VIERNES",
+    "vigencia": "Del 04/11/2026 al 06/11/2026",
+    "categorias": "Farmacias y Perfumerías, Cyber Patagonia",
     "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/s/i/simplicity_4_1_1.jpg",
     "codigo": "2026_09_03_Simplicity_Normal",
     "condiciones": "",
@@ -724,10 +699,12 @@
           "PLUS",
           "SINGULAR"
         ],
-        "porcentaje": "20",
+        "porcentaje": "30",
         "tope": "Tope: $20000",
         "medios_pago": [
-          "Mastercard"
+          "Mastercard",
+          "Google Pay",
+          "Modo"
         ]
       }
     ]
@@ -741,88 +718,6 @@
     "codigo": "2026_09_01_Reebok_PSyJ",
     "condiciones": "",
     "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/reebok-psyj.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS"
-        ],
-        "porcentaje": "20",
-        "tope": "Tope: $12500",
-        "medios_pago": [
-          "Visa Débito",
-          "Visa",
-          "Google Pay",
-          "Apple Pay",
-          "Modo"
-        ]
-      },
-      {
-        "segmentos": [
-          "SINGULAR"
-        ],
-        "porcentaje": "30",
-        "tope": "Tope: $20000",
-        "medios_pago": [
-          "Visa Débito",
-          "Visa",
-          "Google Pay",
-          "Apple Pay",
-          "Modo"
-        ]
-      }
-    ]
-  },
-  {
-    "nombre": "Hush Puppies",
-    "dias": "TODOS LOS JUEVES",
-    "vigencia": "Del 07/05/2026 al 31/12/2026",
-    "categorias": "Indumentaria y Deportes, Día del padre",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/h/u/hush_puppies_2_3.jpg",
-    "codigo": "2026_05_05_Hush Puppies_PSyJ",
-    "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/hush-puppies4.html",
-    "segmentos": [
-      {
-        "segmentos": [
-          "CLASICA",
-          "PLUS"
-        ],
-        "porcentaje": "20",
-        "tope": "Tope: $12500",
-        "medios_pago": [
-          "Visa Débito",
-          "Visa",
-          "Google Pay",
-          "Apple Pay",
-          "Modo"
-        ]
-      },
-      {
-        "segmentos": [
-          "SINGULAR"
-        ],
-        "porcentaje": "30",
-        "tope": "Tope: $20000",
-        "medios_pago": [
-          "Visa Débito",
-          "Visa",
-          "Google Pay",
-          "Apple Pay",
-          "Modo"
-        ]
-      }
-    ]
-  },
-  {
-    "nombre": "Grimoldi",
-    "dias": "TODOS LOS JUEVES",
-    "vigencia": "Del 07/05/2026 al 31/12/2026",
-    "categorias": "Indumentaria y Deportes, Día del padre",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/g/r/grimoldi_3.png",
-    "codigo": "2026_05_04_Grimoldi_PSyJ",
-    "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/grimoldi4.html",
     "segmentos": [
       {
         "segmentos": [
@@ -884,14 +779,14 @@
     ]
   },
   {
-    "nombre": "Adidas",
+    "nombre": "Moov",
     "dias": "TODOS LOS JUEVES",
-    "vigencia": "Del 12/03/2026 al 31/10/2026",
+    "vigencia": "Del 05/03/2026 al 31/01/2027",
     "categorias": "Indumentaria y Deportes, Día del padre",
-    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/p/e/performance_logo_bwp_-_adidas_1.png",
-    "codigo": "2026_10_3_Adidas-1",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/m/o/moov_patagonia_1.jpg",
+    "codigo": "20251104_1647_MoovPlanSueldoYJubilados",
     "condiciones": "",
-    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/adidas2.html",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/moov1.html",
     "segmentos": [
       {
         "segmentos": [
@@ -916,6 +811,127 @@
         "tope": "Tope: $20000",
         "medios_pago": [
           "Visa Débito",
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Dexter",
+    "dias": "TODOS LOS JUEVES",
+    "vigencia": "Del 05/03/2026 al 31/01/2027",
+    "categorias": "Indumentaria y Deportes, Día del padre",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/d/e/dexter_patagonia_1.jpg",
+    "codigo": "20251104_1647_DexterPlanSueldoYJubilados",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/dexter1.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $12500",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa Débito",
+          "Visa",
+          "Amex",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Rapanui",
+    "dias": "SÁBADOS Y DOMINGOS",
+    "vigencia": "Del 04/10/2025 al 31/12/2026",
+    "categorias": "Gastronomía, Catedral Alta Patagonia, Chocolaterías",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/r/a/rapanui_2.jpg",
+    "codigo": "20250710_0917_Rapanui",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/rapanui3.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "20",
+        "tope": "Tope: $12500",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "30",
+        "tope": "Tope: $20000",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      }
+    ]
+  },
+  {
+    "nombre": "Rapanui",
+    "dias": "SÁBADOS Y DOMINGOS",
+    "vigencia": "Del 04/10/2025 al 31/12/2026",
+    "categorias": "Gastronomía, Catedral Alta Patagonia, Chocolaterías",
+    "imagen": "https://ahorrosybeneficios.bancopatagonia.com.ar/media/catalog/product/cache/535dd7322fd89df55ad0692e3106f436/r/a/rapanui.jpg",
+    "codigo": "20240114_1550_Rapanui",
+    "condiciones": "",
+    "url_promo": "https://ahorrosybeneficios.bancopatagonia.com.ar/ahorrosybeneficios/rapanui.html",
+    "segmentos": [
+      {
+        "segmentos": [
+          "CLASICA",
+          "PLUS"
+        ],
+        "porcentaje": "15",
+        "tope": "Tope: $10000",
+        "medios_pago": [
+          "Visa",
+          "Google Pay",
+          "Apple Pay",
+          "Modo"
+        ]
+      },
+      {
+        "segmentos": [
+          "SINGULAR"
+        ],
+        "porcentaje": "25",
+        "tope": "Tope: $15000",
+        "medios_pago": [
           "Visa",
           "Google Pay",
           "Apple Pay",
